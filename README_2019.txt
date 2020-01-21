@@ -3,6 +3,7 @@ Installations:
 * Pandas
 * Matplotlib
 * Sklearn
+* Seaborn
 * Python-3
 
 The Public 2019 Stack Overflow Developer Survey Results
