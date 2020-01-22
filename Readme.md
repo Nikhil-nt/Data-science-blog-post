@@ -63,7 +63,7 @@ The second plot was the number of graduates in this field. As usual computer sci
 Question-1:  What are the employment status of non-technical graduates?
 I have plotted a bar chart to see the employment status. Most of the graduates are employed full time,but the red column indicates that people drop out from the course and are not interested in working in that particular field. If we combine the red and green columns the rate of unemployment is high which shows that non technical grads find it difficult to get in to the tech field.
 
-Question-2: : What are the most popular languages?
+Question-2: What are the most popular languages?
 Most of the programmers prefer to learn python followed html,css, javascript in the upcomming years making it the most popular language.
 
 Question-3: What determines the quality of life and the features involved in predicting the quality of life?
